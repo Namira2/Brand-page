@@ -1,12 +1,36 @@
-# React + Vite
+ Shoe Brand Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive shoe brand landing page built with *React* and *CSS*.  
+It showcases a clean layout with brand logo, navigation bar, promotional text, product image, and shopping links.
 
-Currently, two official plugins are available:
+🚀 Features
+- Responsive layout
+- Navigation bar with logo
+- Hero section with catchy text and product image
+- "Shop Now" and "Category" buttons
+- Links for Amazon and Flipkart availability
+- Styled entirely using CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ 🛠 Tech Stack
+- *React* (Vite or Create React App)
+- *CSS3* for styling
 
-## Expanding the ESLint configuration
+ 📂 Project Structure
+project-folder/ 
+├── src/ │   
+├── assets/       # Images and icons │   
+├── components/   # Navbar, Hero, etc. │   ├── App.jsx │   ├── index.jsx ├── public/ │   ├── index.html ├── package.json ├── README.md
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📷 Preview
+![Preview Screenshot](src/assets/image/screenshot-brandpage.png)
+
+## 📦 Installation & Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Namira2/Brand-page.git
+
+2. Navigate into the project folder:
+cd you Brand-page
+3. Install dependencies:
+npm install
+4. Start the development server:
