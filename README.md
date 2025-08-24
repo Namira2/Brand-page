@@ -17,9 +17,16 @@ It showcases a clean layout with brand logo, navigation bar, promotional text, p
 
  📂 Project Structure
 project-folder/ 
-├── src/ │   
-├── assets/       # Images and icons │   
-├── components/   # Navbar, Hero, etc. │   ├── App.jsx │   ├── index.jsx ├── public/ │   ├── index.html ├── package.json ├── README.md
+├── src/    
+├── assets/
+# Images and icons    
+├── components/    Navbar, Hero, etc.   
+├── App.jsx   
+├── index.jsx
+├── public/    
+├── index.html 
+├── package.json 
+├── README.md
 
 ## 📷 Preview
 ![Preview Screenshot](src/assets/image/screenshot-brandpage.png)
